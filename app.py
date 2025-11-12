@@ -91,7 +91,7 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-st.title("⚖️ Calculadora de IMC Personalizada")
+st.title("Calculadora de IMC Personalizada")
 st.markdown("Use esta ferramenta para calcular seu Índice de Massa Corporal e receber dicas saudáveis personalizadas, geradas pela Inteligência Artificial do Gemini.")
 
 # --- Inputs do Usuário ---
